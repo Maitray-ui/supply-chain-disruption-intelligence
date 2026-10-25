@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Industry,Market_Segment,Country,City,Latitude,Longitude
+CUST00001,Avery Williams,Education,B2B,Germany,Copenhagen,87.2981,-51.1869
+CUST00002,Morgan Jones,Healthcare,B2C,Denmark,Tokyo,48.9622,53.2143
+CUST00003,Sam Johnson,Telecom,B2C,Spain,Sao Paulo,-85.1099,-135.7486
+CUST00004,Morgan Rodriguez,Finance,B2C,Germany,Mumbai,-78.2632,139.9173
+CUST00005,Skyler Wilson,IT,B2C,UK,London,-6.4924,1.1102
+CUST00006,Peyton Wilson,Finance,B2C,UK,London,73.6596,-18.2341
+CUST00007,Casey Hall,Manufacturing,B2B,Japan,London,6.9663,30.9113
+CUST00008,Peyton Smith,Retail,B2C,Spain,Sao Paulo,-0.3937,44.9222
+CUST00009,Harley Lopez,IT,B2C,Japan,Toronto,-71.0147,-154.1607
+CUST00010,Sam Young,Telecom,B2B,France,Sao Paulo,28.2204,65.7422
+CUST00011,Casey Brown,Telecom,B2B,USA,Seoul,57.9786,-92.9046
+CUST00012,Corey Wilson,Manufacturing,B2B,Australia,Madrid,-21.5244,77.0229
+CUST00013,Corey Brown,Manufacturing,B2C,France,Berlin,49.6101,116.1125
+CUST00014,Peyton Davis,IT,B2B,USA,Sao Paulo,83.6058,109.4251
+CUST00015,Casey Anderson,Finance,B2C,Germany,New York,-53.322,18.9003
+CUST00016,Alex Hall,Education,B2C,Japan,Paris,4.1993,7.2612
+CUST00017,Kris Hall,Telecom,B2B,Germany,London,-38.3152,-128.5647
+CUST00018,Morgan Garcia,Telecom,B2B,Germany,Seoul,52.7138,99.1246
+CUST00019,Riley Johnson,Manufacturing,B2C,USA,Toronto,13.9668,-82.2926
+CUST00020,Morgan Garcia,Healthcare,B2B,Spain,Mumbai,24.2248,-1.1896
+CUST00021,Sam Wilson,Manufacturing,B2C,USA,Sao Paulo,53.6245,-77.6613
+CUST00022,Taylor Rodriguez,Education,B2B,Italy,Tokyo,-18.7253,-131.8218
+CUST00023,Kris Smith,Finance,B2B,UK,London,74.7162,46.6408
+CUST00024,Jamie Young,Finance,B2B,UK,Seoul,5.9452,-160.4405
+CUST00025,Jamie Williams,Healthcare,B2C,France,Sydney,-61.5681,89.5123
+CUST00026,Riley Lopez,Telecom,B2B,UK,Amsterdam,35.2618,-65.6688
+CUST00027,Harley Wilson,Manufacturing,B2C,USA,Madrid,52.787,-179.9515
+CUST00028,Riley Miller,Finance,B2C,India,Berlin,-32.9829,4.0065
+CUST00029,Corey Anderson,Education,B2C,Japan,New York,64.2923,-163.1333
+CUST00030,Jordan Hall,IT,B2C,USA,Toronto,73.1058,-80.579
+CUST00031,Dana Hall,Retail,B2B,USA,New York,-40.1572,74.5115
+CUST00032,Taylor Smith,Retail,B2C,Australia,Singapore,87.0339,-157.4317
+CUST00033,Skyler Johnson,Retail,B2C,Japan,Sao Paulo,-64.6719,122.1619
+CUST00034,Alex Jones,Telecom,B2B,Italy,Sydney,-53.6372,-178.6248
+CUST00035,Morgan Smith,Manufacturing,B2C,UK,Seoul,-56.8395,-91.1434
+CUST00036,Kris Smith,Healthcare,B2B,Japan,Toronto,70.9181,86.7255
+CUST00037,Avery Davis,Finance,B2C,UK,Mumbai,27.7727,-66.1427
+CUST00038,Corey Jones,IT,B2B,France,Zurich,-62.6212,-143.3187
+CUST00039,Sam Clark,Education,B2C,Japan,Sao Paulo,-10.7418,-50.3158
+CUST00040,Corey Hall,IT,B2B,UK,Tokyo,20.7536,-82.6584
+CUST00041,Riley Davis,Education,B2C,Italy,Sao Paulo,-74.9765,123.3763
+CUST00042,Peyton Davis,Telecom,B2C,Denmark,Copenhagen,68.8349,-67.1947
+CUST00043,Taylor Anderson,Manufacturing,B2B,Germany,Zurich,54.6486,104.0157
+CUST00044,Corey Rodriguez,Retail,B2B,Germany,Mumbai,0.9372,141.074
+CUST00045,Skyler Williams,Manufacturing,B2B,Italy,Paris,84.0828,-23.8257
+CUST00046,Casey Johnson,Telecom,B2B,Australia,Berlin,-14.803,147.5795
+CUST00047,Casey Johnson,Healthcare,B2C,Denmark,London,87.1399,-44.1655
+CUST00048,Corey Young,Healthcare,B2C,France,Seoul,30.2256,167.0682
+CUST00049,Morgan Hall,Telecom,B2B,Italy,Zurich,24.2408,-147.8558
+CUST00050,Jordan Rodriguez,Education,B2C,Germany,Sydney,-60.1281,67.3269
+CUST00051,Jamie Davis,Finance,B2B,Germany,Paris,68.747,-2.2269
+CUST00052,Skyler Anderson,Finance,B2B,Germany,Mumbai,-13.0519,-40.4464
+CUST00053,Avery Lopez,Education,B2C,Spain,Sao Paulo,-60.798,47.7763
+CUST00054,Sam Anderson,Healthcare,B2C,Italy,Zurich,-87.7306,73.3886
+CUST00055,Sam Johnson,Healthcare,B2C,USA,Singapore,10.756,-178.4292
+CUST00056,Casey Clark,Healthcare,B2C,France,Amsterdam,4.9319,-119.8969
+CUST00057,Riley Clark,Manufacturing,B2C,Germany,Copenhagen,39.4837,76.6966
+CUST00058,Harley Brown,Healthcare,B2C,UK,Paris,70.2464,59.8987
+CUST00059,Alex Brown,IT,B2C,Italy,New York,-75.7068,167.7771
+CUST00060,Taylor Young,Retail,B2B,Spain,Singapore,41.6694,93.9736
+CUST00061,Riley Johnson,Healthcare,B2B,Italy,Sao Paulo,-56.2659,162.2782
+CUST00062,Dana Wilson,Education,B2B,France,New York,64.4719,72.9146
+CUST00063,Skyler Smith,Retail,B2B,Spain,Sao Paulo,57.4314,-72.7012
+CUST00064,Casey Anderson,Manufacturing,B2B,France,Copenhagen,7.3429,-142.0686
+CUST00065,Peyton Anderson,Education,B2C,Italy,New York,37.8437,101.4566
+CUST00066,Peyton Williams,Retail,B2B,USA,Copenhagen,-33.417,51.8937
+CUST00067,Taylor Smith,Education,B2B,France,Toronto,-5.1898,-162.653
+CUST00068,Peyton Williams,Manufacturing,B2B,Spain,Copenhagen,57.8946,-50.3818
+CUST00069,Peyton Smith,IT,B2B,Spain,Singapore,-7.3323,164.4479
+CUST00070,Jordan Garcia,Manufacturing,B2B,France,Tokyo,-25.5963,0.1444
+CUST00071,Jamie Rodriguez,Manufacturing,B2B,India,Seoul,-1.0418,-24.2175
+CUST00072,Corey Hall,Education,B2B,Italy,New York,59.0849,-15.2281
+CUST00073,Harley Clark,Telecom,B2C,India,London,-29.6626,-104.8022
+CUST00074,Casey Williams,Finance,B2C,Australia,Tokyo,-58.7229,-47.2654
+CUST00075,Jamie Williams,Healthcare,B2B,Italy,Sao Paulo,38.1625,-46.8672
+CUST00076,Peyton Hall,Healthcare,B2C,France,Toronto,58.6761,-161.1522
+CUST00077,Harley Jones,IT,B2C,Denmark,Zurich,-71.8853,96.3243
+CUST00078,Peyton Young,IT,B2C,France,Sydney,-46.8227,-30.0584
+CUST00079,Taylor Hall,Healthcare,B2C,India,Madrid,-64.445,115.9848
+CUST00080,Kris Smith,Finance,B2B,USA,Singapore,-27.3705,126.1253
+CUST00081,Jamie Hall,Healthcare,B2C,France,Berlin,-8.9368,-103.6821
+CUST00082,Riley Jones,Telecom,B2C,France,Madrid,44.7887,56.6473
+CUST00083,Corey Johnson,Finance,B2C,USA,Copenhagen,27.2066,-9.9786
+CUST00084,Casey Clark,IT,B2B,France,New York,21.7671,136.8564
+CUST00085,Skyler Anderson,Retail,B2B,Germany,Tokyo,-26.5725,-102.3334
+CUST00086,Taylor Garcia,Education,B2B,Denmark,Toronto,61.4606,64.0128
+CUST00087,Dana Rodriguez,Telecom,B2B,UK,Amsterdam,-5.1683,38.7908
+CUST00088,Jamie Smith,Telecom,B2B,Denmark,Toronto,86.2389,-73.6915
+CUST00089,Dana Lopez,IT,B2B,France,Paris,24.1456,-130.8237
+CUST00090,Skyler Williams,IT,B2B,Germany,Sao Paulo,-67.2723,54.5903
+CUST00091,Jamie Williams,Manufacturing,B2C,Italy,Toronto,31.712,85.8951
+CUST00092,Casey Hall,Telecom,B2C,France,Amsterdam,-31.4813,-66.3742
+CUST00093,Taylor Young,Manufacturing,B2C,India,Zurich,33.5389,52.1397
+CUST00094,Skyler Anderson,Manufacturing,B2B,Germany,Tokyo,-77.4646,-37.7529
+CUST00095,Peyton Johnson,Education,B2B,USA,Tokyo,-58.5213,76.7545
+CUST00096,Morgan Clark,Manufacturing,B2B,Germany,Paris,64.0327,-108.2825
+CUST00097,Corey Smith,Finance,B2B,USA,Sao Paulo,-49.1077,140.4774
+CUST00098,Alex Lopez,Healthcare,B2B,Australia,Singapore,60.6674,-76.5325
+CUST00099,Harley Smith,Retail,B2C,UK,London,-39.7303,-47.597
+CUST00100,Morgan Smith,IT,B2C,Japan,Seoul,25.7187,-159.0869
+CUST00101,Dana Miller,Finance,B2B,Germany,Sao Paulo,34.9471,-139.8556
+CUST00102,Riley Young,Retail,B2B,Spain,Seoul,2.2779,5.7103
+CUST00103,Jordan Williams,Telecom,B2B,India,Berlin,-35.0441,-83.6666
+CUST00104,Kris Lopez,Telecom,B2B,France,London,-51.724,120.7729
+CUST00105,Alex Rodriguez,Telecom,B2C,India,Copenhagen,-84.0259,-174.7104
+CUST00106,Avery Young,Finance,B2B,Denmark,Sydney,-35.2896,-43.5261
+CUST00107,Peyton Clark,Finance,B2B,Japan,Copenhagen,27.5693,-58.5556
+CUST00108,Sam Davis,IT,B2B,Denmark,Paris,78.8949,-173.0421
+CUST00109,Morgan Miller,Healthcare,B2B,Australia,Sao Paulo,66.8168,-135.2274
+CUST00110,Morgan Davis,Manufacturing,B2C,Japan,Amsterdam,47.8917,-31.0886
+CUST00111,Kris Clark,Telecom,B2B,Japan,Mumbai,51.9205,-2.5687
+CUST00112,Jamie Jones,Education,B2B,Denmark,New York,29.6973,-34.4557
+CUST00113,Harley Johnson,Healthcare,B2C,USA,Sao Paulo,-43.1484,11.1376
+CUST00114,Skyler Miller,Education,B2C,Denmark,New York,73.2951,34.2474
+CUST00115,Taylor Rodriguez,IT,B2C,India,Madrid,30.7318,-176.4274
+CUST00116,Sam Young,IT,B2B,USA,New York,10.8793,-12.9257
+CUST00117,Alex Williams,IT,B2B,India,Madrid,-70.0219,166.8597
+CUST00118,Morgan Hall,Retail,B2C,Australia,New York,-9.53,6.8516
+CUST00119,Corey Smith,Education,B2C,France,London,-7.1355,63.9152
+CUST00120,Riley Johnson,Healthcare,B2C,Italy,Madrid,65.6214,-67.729
+CUST00121,Kris Garcia,Healthcare,B2C,USA,Sydney,8.3967,98.6369
+CUST00122,Harley Jones,Finance,B2C,Australia,Zurich,-21.5279,98.2517
+CUST00123,Avery Lopez,Finance,B2C,Spain,Copenhagen,85.8241,7.6666
+CUST00124,Casey Miller,Telecom,B2B,Australia,Sao Paulo,-70.0703,171.365
+CUST00125,Taylor Rodriguez,Finance,B2B,Denmark,Mumbai,-13.9413,-134.8019
+CUST00126,Dana Smith,IT,B2B,Denmark,Mumbai,-82.4356,-173.8988
+CUST00127,Jamie Brown,Healthcare,B2C,Italy,Madrid,43.1827,97.257
+CUST00128,Casey Wilson,Education,B2C,Australia,Copenhagen,75.2538,110.576
+CUST00129,Avery Jones,IT,B2C,UK,Toronto,-39.5933,-136.7254
+CUST00130,Peyton Wilson,Retail,B2C,France,Singapore,64.5015,-84.3902
+CUST00131,Morgan Garcia,Finance,B2C,Denmark,Paris,-37.4007,-173.6811
+CUST00132,Jamie Wilson,IT,B2C,Italy,Madrid,73.9386,-74.4089
+CUST00133,Dana Hall,IT,B2B,France,Paris,45.7131,98.3311
+CUST00134,Avery Brown,Retail,B2B,Australia,Amsterdam,54.8832,6.4658
+CUST00135,Peyton Young,Manufacturing,B2C,Australia,Mumbai,-86.7588,-54.6856
+CUST00136,Corey Hall,Healthcare,B2B,Japan,Copenhagen,83.3059,-46.1739
+CUST00137,Avery Brown,Education,B2C,Italy,New York,40.8008,-179.5127
+CUST00138,Jordan Smith,Telecom,B2B,Denmark,London,-35.1448,-72.0718
+CUST00139,Kris Davis,Manufacturing,B2C,UK,Amsterdam,59.291,52.7251
+CUST00140,Alex Brown,Finance,B2C,Australia,Mumbai,-39.3262,170.71
+CUST00141,Corey Miller,IT,B2B,UK,London,67.0957,124.9419
+CUST00142,Sam Lopez,Retail,B2B,Australia,Seoul,-69.7355,-171.5058
+CUST00143,Peyton Young,Retail,B2C,Denmark,Seoul,36.6635,143.4818
+CUST00144,Alex Miller,Healthcare,B2C,France,Madrid,7.3257,101.9514
+CUST00145,Alex Hall,Manufacturing,B2B,Germany,London,-72.6238,100.9354
+CUST00146,Sam Davis,Telecom,B2B,France,Sydney,-46.4591,-15.1215
+CUST00147,Harley Clark,Healthcare,B2C,Australia,Singapore,-87.7673,-36.7181
+CUST00148,Peyton Jones,IT,B2B,India,Sydney,-5.6218,-70.9503
+CUST00149,Taylor Brown,Healthcare,B2C,Germany,Sao Paulo,-35.7723,-156.3499
+CUST00150,Corey Brown,Education,B2C,Germany,Tokyo,17.7043,-97.8353
+CUST00151,Riley Garcia,Retail,B2C,UK,Toronto,-36.4972,-91.2227
+CUST00152,Alex Williams,Retail,B2C,Italy,London,-36.0146,-5.7323
+CUST00153,Peyton Jones,Finance,B2B,UK,New York,43.7748,89.08
+CUST00154,Taylor Smith,Finance,B2B,UK,Toronto,-81.3343,-9.4285
+CUST00155,Kris Brown,Telecom,B2B,India,London,72.5211,-159.176
+CUST00156,Kris Lopez,IT,B2B,France,Madrid,63.4075,164.8043
+CUST00157,Corey Davis,Education,B2B,France,Zurich,30.2048,159.3808
+CUST00158,Peyton Young,Manufacturing,B2B,Spain,Sao Paulo,16.7799,102.6682
+CUST00159,Jamie Garcia,Healthcare,B2B,Australia,Amsterdam,70.6144,176.878
+CUST00160,Peyton Johnson,Telecom,B2C,India,Sydney,-56.6406,16.0136
+CUST00161,Skyler Johnson,IT,B2B,Spain,Amsterdam,-75.7856,166.5966
+CUST00162,Corey Williams,Finance,B2B,Denmark,Berlin,-46.8882,-152.7822
+CUST00163,Sam Lopez,Healthcare,B2C,Australia,Copenhagen,53.0241,-48.3549
+CUST00164,Riley Johnson,Finance,B2B,Australia,Zurich,-83.7594,-98.8627
+CUST00165,Skyler Wilson,Healthcare,B2B,Japan,Madrid,14.9052,-109.5001
+CUST00166,Alex Davis,Manufacturing,B2C,Japan,Sao Paulo,89.1788,-129.3109
+CUST00167,Sam Williams,IT,B2B,USA,Sao Paulo,64.0253,44.0689
+CUST00168,Morgan Jones,Healthcare,B2B,USA,Tokyo,3.8602,101.2759
+CUST00169,Casey Lopez,Education,B2B,UK,Zurich,-78.5446,28.1874
+CUST00170,Jamie Young,Telecom,B2C,Denmark,Madrid,59.6472,-127.0934
+CUST00171,Avery Davis,Retail,B2B,Germany,Amsterdam,17.8161,112.0046
+CUST00172,Peyton Lopez,Education,B2B,Germany,Amsterdam,-69.3121,48.9437
+CUST00173,Peyton Miller,Education,B2C,Japan,London,-73.1057,-40.2603
+CUST00174,Jamie Garcia,Telecom,B2B,Japan,London,73.7328,62.6869
+CUST00175,Casey Brown,Retail,B2C,Japan,Madrid,30.456,-86.4342
+CUST00176,Taylor Brown,Education,B2C,India,Berlin,59.2716,-55.7308
+CUST00177,Jordan Hall,Healthcare,B2B,Italy,Toronto,68.2162,150.2949
+CUST00178,Avery Wilson,Healthcare,B2C,USA,Berlin,12.919,-75.4184
+CUST00179,Taylor Williams,Healthcare,B2C,India,Tokyo,3.1403,-10.8042
+CUST00180,Taylor Williams,Retail,B2B,France,London,-12.5231,140.4508
+CUST00181,Dana Garcia,Education,B2C,Germany,Madrid,-32.9496,74.7797
+CUST00182,Jamie Davis,Retail,B2C,Australia,Tokyo,-11.7727,-157.6068
+CUST00183,Taylor Rodriguez,Healthcare,B2B,USA,Sao Paulo,49.2983,-126.9709
+CUST00184,Jamie Hall,Telecom,B2B,Spain,London,18.3462,-177.177
+CUST00185,Morgan Garcia,Education,B2B,France,London,70.6542,47.1318
+CUST00186,Casey Garcia,Education,B2C,USA,Madrid,-10.1916,-18.8376
+CUST00187,Casey Lopez,Finance,B2B,India,Seoul,19.2761,-131.6611
+CUST00188,Taylor Johnson,Finance,B2C,Denmark,Singapore,23.6354,164.8563
+CUST00189,Jordan Hall,Manufacturing,B2C,Australia,Madrid,16.5055,10.6775
+CUST00190,Sam Jones,IT,B2C,USA,London,36.4741,-92.9184
+CUST00191,Harley Clark,Finance,B2C,Italy,New York,-47.262,0.2173
+CUST00192,Peyton Wilson,Retail,B2C,Japan,Paris,2.2255,64.6633
+CUST00193,Alex Brown,Finance,B2C,Japan,Zurich,-71.2395,-152.5539
+CUST00194,Harley Lopez,Manufacturing,B2C,Australia,Mumbai,-20.788,-81.1066
+CUST00195,Jamie Williams,Education,B2B,India,New York,-2.2199,110.5076
+CUST00196,Taylor Clark,Manufacturing,B2B,Japan,Singapore,27.4004,-14.5206
+CUST00197,Morgan Miller,Education,B2C,USA,Copenhagen,81.0956,16.7678
+CUST00198,Riley Rodriguez,Telecom,B2C,Spain,Mumbai,18.1172,-24.1862
+CUST00199,Alex Anderson,Telecom,B2B,Germany,Sao Paulo,43.8469,-164.196
+CUST00200,Casey Jones,Education,B2C,Germany,Mumbai,1.1279,-120.3301
+CUST00201,Harley Williams,IT,B2B,France,Mumbai,24.1387,-19.605
+CUST00202,Alex Davis,Finance,B2B,UK,Amsterdam,-77.2322,-104.6932
+CUST00203,Harley Garcia,Retail,B2B,Denmark,Sydney,-44.2095,-162.0075
+CUST00204,Corey Clark,Retail,B2C,Australia,Madrid,-24.8664,123.7139
+CUST00205,Corey Brown,Healthcare,B2C,France,Tokyo,-4.9512,173.2293
+CUST00206,Taylor Garcia,Education,B2B,UK,Madrid,-81.7832,105.5314
+CUST00207,Taylor Hall,Retail,B2B,India,Paris,-64.7957,127.3626
+CUST00208,Avery Williams,IT,B2B,Italy,Seoul,-40.1734,-92.8882
+CUST00209,Taylor Smith,Education,B2B,Italy,Copenhagen,84.8759,165.8257
+CUST00210,Alex Lopez,IT,B2B,Denmark,Madrid,-30.3575,-109.1067
+CUST00211,Avery Brown,Retail,B2C,Japan,Toronto,-3.2326,162.5147
+CUST00212,Jordan Brown,Retail,B2B,USA,London,-54.7024,178.1349
+CUST00213,Harley Davis,Healthcare,B2C,France,London,19.9404,76.2202
+CUST00214,Jamie Anderson,Retail,B2B,France,Singapore,-39.477,173.2117
+CUST00215,Sam Anderson,Education,B2C,Australia,Sydney,-52.7413,25.0343
+CUST00216,Taylor Wilson,Telecom,B2C,Australia,Sydney,2.9831,-86.565
+CUST00217,Skyler Jones,Education,B2C,Italy,Sydney,-89.009,-22.6815
+CUST00218,Kris Lopez,Education,B2C,Italy,Seoul,-88.6205,33.6819
+CUST00219,Taylor Smith,Healthcare,B2C,Spain,Copenhagen,-50.5676,-153.6906
+CUST00220,Taylor Brown,Healthcare,B2C,Spain,Amsterdam,-83.3902,44.0436
+CUST00221,Kris Anderson,Retail,B2B,Japan,Seoul,-70.5554,173.224
+CUST00222,Dana Hall,Manufacturing,B2C,Spain,Amsterdam,-29.0051,-111.5612
+CUST00223,Jordan Johnson,Manufacturing,B2B,USA,Sao Paulo,54.4654,105.3342
+CUST00224,Kris Lopez,Healthcare,B2C,USA,New York,12.9688,146.8436
+CUST00225,Harley Hall,Retail,B2C,France,Tokyo,2.2802,159.7326
+CUST00226,Jamie Johnson,Manufacturing,B2B,Germany,Seoul,-37.172,165.6488
+CUST00227,Alex Garcia,Retail,B2C,USA,Seoul,77.7157,7.7255
+CUST00228,Alex Williams,Retail,B2B,UK,New York,-18.5373,171.8308
+CUST00229,Kris Wilson,Retail,B2B,Italy,Madrid,-74.3233,92.6317
+CUST00230,Riley Lopez,Finance,B2B,Australia,Zurich,21.072,-121.7983
+CUST00231,Peyton Davis,Education,B2B,Spain,Madrid,-69.5091,-8.316
+CUST00232,Dana Smith,Retail,B2C,France,Mumbai,-27.8598,78.5992
+CUST00233,Riley Anderson,Finance,B2C,Denmark,Toronto,1.3341,-90.9575
+CUST00234,Riley Williams,Healthcare,B2B,Australia,Singapore,67.3601,50.6215
+CUST00235,Jamie Brown,Manufacturing,B2C,UK,Madrid,-1.1616,59.9762
+CUST00236,Kris Williams,Education,B2C,Spain,Tokyo,36.4066,-121.4281
+CUST00237,Casey Jones,Telecom,B2B,UK,Zurich,88.707,23.4307
+CUST00238,Dana Young,Manufacturing,B2C,Italy,London,-66.332,97.7857
+CUST00239,Jordan Smith,Education,B2B,Italy,Sao Paulo,-40.5483,-0.3976
+CUST00240,Skyler Wilson,Telecom,B2B,Japan,Paris,-18.9763,-175.6429
+CUST00241,Skyler Brown,Manufacturing,B2C,France,Sao Paulo,-14.0709,-176.7462
+CUST00242,Sam Jones,Education,B2C,Australia,Madrid,-16.0162,-51.4694
+CUST00243,Dana Davis,Manufacturing,B2C,India,Singapore,73.37,153.4299
+CUST00244,Kris Rodriguez,Manufacturing,B2B,India,Zurich,38.5259,-97.6764
+CUST00245,Dana Smith,Telecom,B2B,Australia,Paris,19.4229,48.3709
+CUST00246,Taylor Jones,Manufacturing,B2C,Denmark,London,-34.3129,-100.0527
+CUST00247,Riley Williams,Manufacturing,B2C,France,Berlin,58.2823,-64.1988
+CUST00248,Riley Brown,Telecom,B2C,UK,Toronto,81.9109,125.2952
+CUST00249,Sam Young,Healthcare,B2C,Denmark,Paris,57.8157,82.3901
+CUST00250,Avery Rodriguez,Retail,B2B,Germany,Seoul,-89.7183,-145.6563
+CUST00251,Morgan Anderson,IT,B2C,Australia,London,24.5522,-25.6673
+CUST00252,Avery Rodriguez,Finance,B2B,UK,Seoul,-80.7956,-169.4989
+CUST00253,Avery Smith,IT,B2B,India,Mumbai,-43.6307,-6.8795
+CUST00254,Riley Hall,IT,B2C,USA,Zurich,-79.2856,58.4762
+CUST00255,Peyton Miller,Education,B2C,Japan,Mumbai,18.6832,-137.3391
+CUST00256,Dana Rodriguez,Retail,B2C,India,Singapore,33.5862,-76.0014
+CUST00257,Avery Garcia,Education,B2B,France,Paris,-69.3922,-36.7788
+CUST00258,Jamie Young,Retail,B2C,Italy,Madrid,-20.909,151.0312
+CUST00259,Skyler Rodriguez,Telecom,B2C,USA,Singapore,-7.8774,177.5718
+CUST00260,Jamie Davis,Telecom,B2B,Japan,Tokyo,-23.5705,-163.8319
+CUST00261,Casey Williams,Retail,B2C,Japan,Madrid,-68.2155,93.9629
+CUST00262,Alex Miller,Manufacturing,B2B,Germany,Berlin,-14.5894,-46.1793
+CUST00263,Skyler Brown,Healthcare,B2C,Germany,New York,45.212,-38.7151
+CUST00264,Alex Young,Manufacturing,B2B,Spain,Tokyo,-77.2186,91.5354
+CUST00265,Avery Hall,Healthcare,B2C,India,New York,-75.5676,150.6335
+CUST00266,Casey Smith,Education,B2C,India,Seoul,-26.1412,162.3343
+CUST00267,Avery Garcia,Healthcare,B2B,India,Sao Paulo,79.5106,27.7641
+CUST00268,Corey Miller,Education,B2B,Spain,London,30.3431,-51.4364
+CUST00269,Avery Wilson,Telecom,B2C,Denmark,Sydney,32.1606,103.5177
+CUST00270,Morgan Williams,IT,B2B,Japan,Mumbai,-24.8544,-89.6395
+CUST00271,Taylor Brown,Telecom,B2B,USA,Singapore,16.8589,23.0667
+CUST00272,Sam Brown,Telecom,B2B,France,Tokyo,-88.1764,-50.9118
+CUST00273,Casey Rodriguez,IT,B2B,Japan,Tokyo,24.4973,56.3872
+CUST00274,Harley Hall,Healthcare,B2C,Germany,London,74.3917,-93.4564
+CUST00275,Kris Clark,Healthcare,B2C,UK,Amsterdam,20.2632,-111.0265
+CUST00276,Alex Hall,Education,B2B,Italy,London,67.2657,150.5661
+CUST00277,Morgan Wilson,Manufacturing,B2B,Spain,Toronto,40.3151,-143.3507
+CUST00278,Harley Hall,Education,B2B,Australia,Sao Paulo,-68.2995,2.1448
+CUST00279,Riley Miller,Manufacturing,B2B,UK,Berlin,72.4416,-100.493
+CUST00280,Kris Lopez,Telecom,B2C,France,Toronto,-78.0401,-165.9852
+CUST00281,Harley Williams,IT,B2C,India,Copenhagen,6.1141,-167.0332
+CUST00282,Jordan Brown,Telecom,B2B,Germany,Sao Paulo,-64.4153,-116.9202
+CUST00283,Skyler Miller,Retail,B2B,Germany,Madrid,-87.8928,132.0373
+CUST00284,Avery Clark,Healthcare,B2B,Germany,Amsterdam,-14.0338,-78.3077
+CUST00285,Peyton Miller,Manufacturing,B2C,India,Amsterdam,-36.8927,162.1653
+CUST00286,Kris Wilson,Education,B2B,Australia,Amsterdam,-2.5199,29.384
+CUST00287,Alex Clark,IT,B2C,Spain,Berlin,13.896,-22.8189
+CUST00288,Peyton Miller,Manufacturing,B2B,UK,Toronto,-82.127,28.832
+CUST00289,Skyler Wilson,Education,B2C,India,Singapore,-67.8594,6.0114
+CUST00290,Jordan Wilson,Healthcare,B2B,France,New York,10.5556,93.1595
+CUST00291,Morgan Lopez,Telecom,B2C,Spain,Zurich,-28.2299,-78.3014
+CUST00292,Avery Young,Healthcare,B2B,France,Berlin,41.2512,-52.9019
+CUST00293,Dana Rodriguez,Finance,B2B,Spain,Sao Paulo,27.4125,141.8739
+CUST00294,Casey Williams,Retail,B2B,Australia,Madrid,62.2088,160.7243
+CUST00295,Dana Smith,Finance,B2C,Italy,Sydney,34.6487,141.321
+CUST00296,Taylor Smith,IT,B2B,France,Zurich,-12.6124,-28.9987
+CUST00297,Morgan Wilson,Manufacturing,B2C,India,London,31.134,100.9316
+CUST00298,Morgan Smith,IT,B2C,Spain,Sydney,-40.4314,-8.5191
+CUST00299,Corey Garcia,Telecom,B2B,Germany,Copenhagen,-34.8636,-0.8857
+CUST00300,Alex Miller,Education,B2B,Japan,Sao Paulo,52.0173,-106.3152
+CUST00301,Kris Wilson,Healthcare,B2B,Germany,Sao Paulo,-9.6445,32.8069
+CUST00302,Morgan Hall,Finance,B2C,Denmark,Paris,53.7085,-112.9911
+CUST00303,Jordan Miller,Finance,B2B,Italy,Paris,58.036,-60.6367
+CUST00304,Peyton Williams,Telecom,B2C,Italy,New York,64.3612,127.8109
+CUST00305,Kris Hall,Finance,B2C,Germany,Tokyo,74.9943,-105.4527
+CUST00306,Harley Lopez,Telecom,B2B,UK,Sydney,-12.4227,-154.383
+CUST00307,Jamie Smith,IT,B2B,Australia,Amsterdam,-32.604,-155.1573
+CUST00308,Alex Williams,Healthcare,B2B,France,Singapore,14.7958,158.6824
+CUST00309,Skyler Clark,Manufacturing,B2B,India,Singapore,-23.189,2.4914
+CUST00310,Kris Williams,Education,B2B,Italy,Toronto,18.1934,-32.6117
+CUST00311,Avery Johnson,Manufacturing,B2B,Germany,Paris,37.0055,111.9163
+CUST00312,Harley Rodriguez,IT,B2C,Germany,Tokyo,33.9129,120.8973
+CUST00313,Harley Miller,Education,B2C,Australia,Sao Paulo,-22.5805,-60.4112
+CUST00314,Taylor Miller,Finance,B2C,Australia,Seoul,-59.9652,69.7025
+CUST00315,Peyton Anderson,Retail,B2B,USA,Paris,-12.5047,97.6042
+CUST00316,Riley Wilson,IT,B2C,USA,Mumbai,-64.3331,55.6742
+CUST00317,Taylor Miller,IT,B2C,UK,Berlin,70.2175,-125.4258
+CUST00318,Casey Miller,Healthcare,B2C,UK,Toronto,-27.7421,135.3179
+CUST00319,Jordan Williams,Manufacturing,B2C,Denmark,Tokyo,-62.1972,14.074
+CUST00320,Peyton Davis,IT,B2C,UK,Madrid,-85.4194,-78.3099
+CUST00321,Avery Anderson,IT,B2B,Spain,Paris,26.248,-26.9179
+CUST00322,Dana Anderson,Finance,B2B,Australia,Tokyo,24.6424,-166.4744
+CUST00323,Jamie Williams,Finance,B2C,India,Madrid,-28.6913,-133.968
+CUST00324,Peyton Rodriguez,Education,B2C,Spain,Copenhagen,-77.0919,95.5968
+CUST00325,Peyton Young,Telecom,B2C,France,Copenhagen,-16.2668,-179.9958
+CUST00326,Kris Wilson,Telecom,B2B,Germany,Toronto,-33.9809,-30.0363
+CUST00327,Avery Miller,Retail,B2B,UK,London,31.8817,8.1037
+CUST00328,Morgan Anderson,Telecom,B2C,Germany,New York,19.0403,-160.3316
+CUST00329,Skyler Lopez,Healthcare,B2B,Italy,Mumbai,-24.3731,170.3081
+CUST00330,Jordan Davis,Retail,B2B,Denmark,Mumbai,-50.7793,-98.5949
+CUST00331,Casey Clark,Education,B2C,Italy,Paris,87.8465,-70.4885
+CUST00332,Peyton Jones,Finance,B2B,Denmark,Amsterdam,-8.2797,-70.5807
+CUST00333,Jordan Williams,Telecom,B2B,USA,Mumbai,33.8894,-97.05
+CUST00334,Peyton Smith,Manufacturing,B2C,Germany,Paris,-64.7005,-179.4694
+CUST00335,Peyton Wilson,Finance,B2B,Denmark,Toronto,-2.5939,82.5641
+CUST00336,Riley Lopez,Healthcare,B2B,Japan,Mumbai,-85.0434,168.0644
+CUST00337,Avery Wilson,Finance,B2C,Spain,Mumbai,0.9819,-99.2543
+CUST00338,Alex Williams,Healthcare,B2B,Denmark,Mumbai,83.5231,58.697
+CUST00339,Skyler Miller,Healthcare,B2B,Denmark,Berlin,-20.8428,87.0827
+CUST00340,Kris Hall,Healthcare,B2C,Spain,Paris,-82.9807,125.4331
+CUST00341,Skyler Brown,Education,B2C,Germany,Amsterdam,-84.428,-27.8535
+CUST00342,Sam Wilson,Healthcare,B2C,Germany,Sydney,-20.1624,-70.9449
+CUST00343,Taylor Young,Healthcare,B2B,Spain,Madrid,-61.1955,-62.8938
+CUST00344,Dana Williams,Manufacturing,B2C,Italy,Sydney,-85.7966,76.5437
+CUST00345,Jamie Clark,Retail,B2B,Japan,Sydney,46.1185,114.0406
+CUST00346,Taylor Brown,IT,B2C,India,Sydney,-7.4659,-114.619
+CUST00347,Jamie Miller,Retail,B2B,France,Toronto,-37.9359,-46.4612
+CUST00348,Jordan Anderson,Healthcare,B2C,Japan,Sydney,72.015,144.6985
+CUST00349,Kris Johnson,Manufacturing,B2C,Germany,Copenhagen,-69.095,110.4097
+CUST00350,Harley Clark,Finance,B2C,India,Copenhagen,82.0654,174.549
+CUST00351,Sam Anderson,Manufacturing,B2C,USA,Zurich,-33.486,91.5294
+CUST00352,Peyton Young,Healthcare,B2B,UK,New York,69.9127,-38.4497
+CUST00353,Jamie Garcia,Manufacturing,B2C,Denmark,Seoul,18.5297,32.6296
+CUST00354,Alex Jones,Telecom,B2C,Spain,Tokyo,58.8073,57.9651
+CUST00355,Morgan Brown,Manufacturing,B2B,Spain,Copenhagen,87.1224,-151.7559
+CUST00356,Peyton Johnson,Healthcare,B2C,Denmark,Singapore,-38.087,16.0189
+CUST00357,Jamie Jones,Education,B2B,UK,Tokyo,83.0044,75.3555
+CUST00358,Avery Johnson,Telecom,B2C,France,Mumbai,-19.8933,-119.7643
+CUST00359,Peyton Smith,Manufacturing,B2C,UK,Sao Paulo,-20.6079,101.0274
+CUST00360,Alex Davis,IT,B2C,India,Zurich,-28.7303,30.1582
+CUST00361,Dana Clark,IT,B2B,UK,New York,7.4534,162.7998
+CUST00362,Riley Williams,Manufacturing,B2C,India,Copenhagen,-62.2539,-164.728
+CUST00363,Kris Davis,Education,B2C,UK,Madrid,9.6681,-84.4826
+CUST00364,Dana Young,Finance,B2C,France,Copenhagen,7.5069,36.5594
+CUST00365,Riley Miller,Healthcare,B2B,France,Madrid,47.1423,-73.2384
+CUST00366,Corey Davis,IT,B2B,Germany,Seoul,60.057,77.1927
+CUST00367,Taylor Lopez,Finance,B2C,Denmark,New York,-10.7206,93.2419
+CUST00368,Dana Hall,Manufacturing,B2B,France,New York,-35.58,-143.0943
+CUST00369,Harley Wilson,Finance,B2C,India,Seoul,-43.3197,4.9876
+CUST00370,Sam Hall,Telecom,B2C,France,Singapore,-54.9677,3.2006
+CUST00371,Sam Brown,Retail,B2C,Germany,Tokyo,-79.6234,-47.0589
+CUST00372,Jordan Garcia,IT,B2C,Spain,London,-28.3594,155.853
+CUST00373,Taylor Hall,Manufacturing,B2C,India,Paris,-41.3554,117.9023
+CUST00374,Harley Smith,Healthcare,B2C,Germany,Berlin,83.9551,70.9954
+CUST00375,Casey Smith,Education,B2C,Italy,Sydney,10.3876,77.1576
+CUST00376,Jamie Jones,Telecom,B2B,Italy,Zurich,-27.4901,-13.7822
+CUST00377,Taylor Johnson,Manufacturing,B2B,USA,Amsterdam,14.4842,151.558
+CUST00378,Jamie Williams,Healthcare,B2B,UK,London,-64.9446,70.0544
+CUST00379,Kris Davis,Education,B2B,Denmark,Paris,-10.0721,82.4332
+CUST00380,Jordan Clark,Education,B2B,Australia,Berlin,22.7222,130.2087
+CUST00381,Taylor Rodriguez,Manufacturing,B2B,Japan,Sao Paulo,-1.9984,-81.3342
+CUST00382,Kris Johnson,Telecom,B2B,Germany,Copenhagen,-17.6798,110.5455
+CUST00383,Jamie Wilson,Finance,B2C,Spain,London,88.8927,-109.7134
+CUST00384,Skyler Young,Finance,B2C,Japan,London,68.4567,-55.6769
+CUST00385,Dana Clark,Education,B2C,Spain,Toronto,22.2131,-59.1802
+CUST00386,Alex Davis,Finance,B2C,Japan,Seoul,12.4879,172.2692
+CUST00387,Sam Williams,Retail,B2B,Germany,Zurich,21.7189,128.3534
+CUST00388,Skyler Young,Education,B2B,Australia,Amsterdam,-53.7638,72.4212
+CUST00389,Riley Williams,Education,B2C,Japan,Zurich,-18.8752,81.7404
+CUST00390,Alex Johnson,Healthcare,B2C,Germany,Tokyo,-82.8973,22.3462
+CUST00391,Jamie Brown,Finance,B2B,France,Sydney,-4.4017,160.9526
+CUST00392,Morgan Davis,Telecom,B2C,Australia,Singapore,7.7444,-1.3468
+CUST00393,Peyton Rodriguez,Education,B2C,India,Madrid,-49.005,-43.0136
+CUST00394,Peyton Young,Telecom,B2C,Spain,Paris,83.5252,-121.3073
+CUST00395,Peyton Rodriguez,Retail,B2C,Italy,Tokyo,73.7018,103.034
+CUST00396,Casey Anderson,Healthcare,B2B,UK,Singapore,39.9858,84.3998
+CUST00397,Casey Jones,Manufacturing,B2C,Italy,Toronto,6.0096,-41.6322
+CUST00398,Morgan Johnson,Telecom,B2C,Australia,Tokyo,66.5944,-170.9304
+CUST00399,Alex Davis,Education,B2B,India,Mumbai,-66.4826,122.039
+CUST00400,Skyler Rodriguez,Retail,B2B,Spain,New York,52.2918,-175.8895
+CUST00401,Harley Garcia,IT,B2C,India,Paris,-67.5323,73.3319
+CUST00402,Jordan Smith,Retail,B2B,Japan,Singapore,52.9579,169.2926
+CUST00403,Jamie Smith,Retail,B2C,Spain,Singapore,-40.3618,-22.4419
+CUST00404,Riley Johnson,Healthcare,B2C,Japan,Mumbai,67.8763,-95.4096
+CUST00405,Casey Lopez,Manufacturing,B2B,Germany,Sydney,79.9276,73.7536
+CUST00406,Sam Anderson,IT,B2C,Australia,Copenhagen,-63.2167,114.1661
+CUST00407,Skyler Garcia,Finance,B2C,Germany,New York,-6.7184,16.7149
+CUST00408,Morgan Johnson,Finance,B2C,USA,New York,86.5777,168.1327
+CUST00409,Alex Brown,Telecom,B2C,India,Seoul,-2.9867,-161.3993
+CUST00410,Jordan Anderson,Retail,B2B,Japan,Paris,65.4386,1.7264
+CUST00411,Casey Johnson,Healthcare,B2B,France,New York,15.9717,78.6434
+CUST00412,Dana Lopez,Healthcare,B2C,Germany,Seoul,-22.4406,130.5506
+CUST00413,Taylor Jones,Finance,B2B,USA,Copenhagen,-38.559,-115.468
+CUST00414,Avery Davis,Telecom,B2C,Denmark,Amsterdam,-53.4198,108.0013
+CUST00415,Dana Garcia,Telecom,B2C,Italy,Zurich,47.1237,18.9745
+CUST00416,Kris Anderson,Telecom,B2C,Spain,Paris,-20.4227,-37.2407
+CUST00417,Casey Johnson,IT,B2C,USA,Berlin,2.0296,-132.5826
+CUST00418,Sam Rodriguez,Manufacturing,B2C,Australia,Tokyo,-1.3814,131.5065
+CUST00419,Riley Williams,IT,B2B,Germany,Seoul,13.9102,-123.3816
+CUST00420,Jamie Young,Education,B2C,Australia,Madrid,65.8039,-68.4764
+CUST00421,Riley Miller,Education,B2B,Italy,Mumbai,86.5331,-75.5836
+CUST00422,Jordan Garcia,Manufacturing,B2B,France,Copenhagen,-16.6348,133.7091
+CUST00423,Alex Jones,Finance,B2C,India,Sydney,58.9534,62.1731
+CUST00424,Dana Garcia,Manufacturing,B2C,India,Singapore,47.615,106.8053
+CUST00425,Casey Brown,Healthcare,B2C,Australia,Madrid,13.2352,-89.8316
+CUST00426,Harley Jones,Education,B2C,Japan,London,82.0885,44.9547
+CUST00427,Skyler Smith,Retail,B2C,France,Mumbai,-53.9146,25.8286
+CUST00428,Jordan Hall,Retail,B2B,India,Zurich,-70.3324,119.8189
+CUST00429,Peyton Anderson,Finance,B2C,France,Amsterdam,63.7132,146.1913
+CUST00430,Taylor Johnson,Healthcare,B2C,USA,Copenhagen,-10.953,-175.6236
+CUST00431,Sam Miller,IT,B2B,France,Amsterdam,62.4544,62.6472
+CUST00432,Avery Rodriguez,Healthcare,B2B,UK,Copenhagen,70.7562,-161.3391
+CUST00433,Riley Hall,Retail,B2C,Italy,Madrid,-78.7576,17.5891
+CUST00434,Skyler Brown,Retail,B2B,India,Berlin,69.0237,-76.4522
+CUST00435,Corey Smith,Education,B2C,France,Madrid,-9.3026,-69.5604
+CUST00436,Harley Davis,Healthcare,B2B,Australia,Sao Paulo,1.8778,-52.9349
+CUST00437,Harley Rodriguez,Healthcare,B2B,Denmark,Copenhagen,22.7867,43.6653
+CUST00438,Riley Rodriguez,Retail,B2C,UK,Copenhagen,76.7489,-59.742
+CUST00439,Sam Lopez,IT,B2B,UK,Seoul,-86.5591,83.7717
+CUST00440,Kris Garcia,Finance,B2B,Japan,Berlin,-4.1682,-34.3701
+CUST00441,Skyler Young,Telecom,B2B,France,Sydney,33.79,-155.3928
+CUST00442,Morgan Garcia,Finance,B2B,Japan,Toronto,40.0873,102.1535
+CUST00443,Casey Johnson,Healthcare,B2B,Japan,Sydney,34.6558,-77.127
+CUST00444,Riley Young,Finance,B2B,Denmark,Berlin,-65.8017,-24.2039
+CUST00445,Harley Clark,Retail,B2C,USA,Zurich,-36.1088,66.7598
+CUST00446,Alex Rodriguez,Retail,B2C,France,London,-25.4312,-60.3158
+CUST00447,Skyler Young,Healthcare,B2B,Germany,Toronto,54.7987,-159.6292
+CUST00448,Corey Hall,Healthcare,B2C,India,Seoul,-39.8232,-45.3884
+CUST00449,Skyler Anderson,Telecom,B2C,Japan,Paris,-52.0731,160.0015
+CUST00450,Skyler Williams,Telecom,B2C,Italy,New York,82.3406,51.0244
+CUST00451,Taylor Hall,Education,B2B,Spain,Seoul,-88.4046,61.7325
+CUST00452,Dana Williams,Healthcare,B2C,Italy,Madrid,89.6078,47.6216
+CUST00453,Jordan Brown,IT,B2B,Denmark,Madrid,31.8278,-108.3628
+CUST00454,Avery Brown,Finance,B2C,Denmark,Copenhagen,59.1245,-29.3998
+CUST00455,Jordan Smith,Healthcare,B2B,Australia,London,-36.9685,90.3383
+CUST00456,Riley Johnson,Manufacturing,B2B,USA,Sydney,-87.4233,-143.5058
+CUST00457,Sam Davis,Education,B2C,India,Madrid,42.8165,-79.973
+CUST00458,Morgan Lopez,Manufacturing,B2C,Japan,Berlin,60.146,-80.5251
+CUST00459,Sam Williams,Retail,B2B,Italy,Madrid,43.2857,-24.4732
+CUST00460,Harley Wilson,Telecom,B2C,Spain,Zurich,-64.2869,172.9327
+CUST00461,Casey Miller,Finance,B2C,Denmark,London,45.617,-155.6991
+CUST00462,Kris Clark,Healthcare,B2C,Denmark,Amsterdam,48.4061,6.7324
+CUST00463,Kris Hall,Manufacturing,B2B,USA,Amsterdam,28.5373,-115.4287
+CUST00464,Taylor Johnson,Finance,B2B,Spain,Seoul,47.9009,169.4436
+CUST00465,Riley Rodriguez,Retail,B2C,Spain,Paris,62.2659,-139.2107
+CUST00466,Riley Rodriguez,Telecom,B2C,USA,Sydney,20.4487,-34.7036
+CUST00467,Jamie Lopez,IT,B2C,Denmark,Sao Paulo,-74.0512,85.6386
+CUST00468,Casey Rodriguez,Education,B2B,India,Singapore,-2.227,73.6396
+CUST00469,Dana Young,Finance,B2B,France,Berlin,-76.0231,-27.8177
+CUST00470,Harley Smith,Finance,B2C,France,Zurich,-16.6423,-55.2513
+CUST00471,Avery Clark,IT,B2C,USA,Seoul,-16.7208,-36.8595
+CUST00472,Skyler Wilson,Finance,B2C,Spain,Amsterdam,-78.1182,-84.8605
+CUST00473,Corey Hall,Retail,B2C,Japan,Berlin,-27.2123,-106.0801
+CUST00474,Riley Johnson,Retail,B2C,USA,London,-70.0203,-6.1057
+CUST00475,Riley Williams,IT,B2C,India,Berlin,55.4823,-83.3278
+CUST00476,Jordan Wilson,Education,B2B,USA,Mumbai,80.5838,-76.5138
+CUST00477,Skyler Wilson,Healthcare,B2C,UK,Berlin,-76.983,56.4322
+CUST00478,Avery Johnson,Manufacturing,B2B,Italy,Toronto,81.9207,168.6734
+CUST00479,Kris Johnson,Healthcare,B2C,Spain,New York,4.0638,37.3094
+CUST00480,Skyler Hall,Finance,B2C,Australia,Amsterdam,-36.0782,-152.2874
+CUST00481,Taylor Hall,Manufacturing,B2B,Australia,New York,-76.1648,-152.7899
+CUST00482,Casey Lopez,IT,B2B,Spain,Mumbai,0.1124,162.5124
+CUST00483,Corey Young,IT,B2B,India,London,53.0128,-72.9753
+CUST00484,Jamie Young,Education,B2B,UK,Sao Paulo,37.2756,-146.8559
+CUST00485,Riley Jones,Manufacturing,B2C,UK,Zurich,-80.9593,35.6561
+CUST00486,Riley Anderson,Retail,B2B,Denmark,New York,-76.8777,44.5136
+CUST00487,Dana Wilson,Manufacturing,B2C,Italy,Tokyo,-17.4828,53.4617
+CUST00488,Skyler Garcia,Finance,B2B,France,Seoul,-36.8477,-83.7353
+CUST00489,Alex Williams,Retail,B2C,Germany,Sydney,-48.1708,-174.5602
+CUST00490,Casey Davis,Telecom,B2C,India,London,-39.4192,167.4055
+CUST00491,Jordan Wilson,Telecom,B2C,Germany,Paris,54.6269,-89.6785
+CUST00492,Skyler Anderson,Telecom,B2C,Germany,Copenhagen,77.261,63.3695
+CUST00493,Peyton Davis,IT,B2C,Spain,Zurich,-17.0815,74.3868
+CUST00494,Alex Davis,Manufacturing,B2C,Australia,Toronto,73.1,39.6027
+CUST00495,Kris Young,Telecom,B2B,Australia,Singapore,-32.1308,-67.3533
+CUST00496,Jamie Clark,Healthcare,B2C,France,New York,-4.2413,-82.4053
+CUST00497,Morgan Smith,Education,B2B,Spain,Seoul,-49.3148,35.1606
+CUST00498,Peyton Garcia,Healthcare,B2B,Germany,Singapore,25.2857,131.7944
+CUST00499,Kris Jones,Telecom,B2C,Japan,Toronto,86.2166,160.8241
+CUST00500,Kris Miller,Education,B2B,Australia,Tokyo,18.6288,-141.8739

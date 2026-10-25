@@ -1,0 +1,56 @@
+
+Table_Name,Column_Name,Description,Data_Type
+product_master,Product_ID,Unique product identifier,string
+product_master,SKU,Stock keeping unit code for inventory control,string
+product_master,Product_Name,Descriptive product name,string
+product_master,Category,High level product category,string
+product_master,Subcategory,Subcategory within the main category,string
+product_master,Unit,"Unit of measure (e.g., pcs)",string
+product_master,Unit_Cost,Cost per unit (raw manufacturing cost),float
+product_master,Standard_Price,Standard selling price per unit,float
+product_master,Launch_Date,Date when product was introduced,date
+product_master,Discontinuation_Date,Date when product is discontinued (if any),date
+supplier_master,Supplier_ID,Unique supplier identifier,string
+supplier_master,Supplier_Name,Name of the supplier company,string
+supplier_master,Country,Country where supplier is located,string
+supplier_master,Region,Region within the country,string
+supplier_master,On_Time_Delivery_Rate,Historical on-time delivery percentage,float
+supplier_master,Certification_Level,Supplier certification level (ISO standards etc.),string
+supplier_master,Preferred_Supplier_Flag,Flag indicating preferred supplier (0 or 1),integer
+customer_master,Customer_ID,Unique customer identifier,string
+customer_master,Customer_Name,Customer full name,string
+customer_master,Industry,Industry segment of the customer,string
+customer_master,Market_Segment,Customer market segment (B2B/B2C),string
+customer_master,Country,Customer country,string
+customer_master,City,Customer city,string
+customer_master,Latitude,Customer location latitude,float
+customer_master,Longitude,Customer location longitude,float
+sales_orders,Order_ID,Unique sales order identifier,string
+sales_orders,Customer_ID,Customer associated with the order,string
+sales_orders,Product_ID,Product ordered (foreign key to product_master),string
+sales_orders,Order_Date,Date when the order was placed,date
+sales_orders,Order_Status,"Status of the order (Completed, Cancelled, Pending)",string
+sales_orders,Order_Quantity,Quantity of units ordered,integer
+sales_orders,Unit_Price,Standard price per unit at time of order,float
+sales_orders,Discount,Discount applied as a fraction of price,float
+sales_orders,Shipping_Mode,"Mode of shipping (Standard, Express, etc.)",string
+sales_orders,Shipping_Carrier,Carrier used for shipping,string
+sales_orders,Shipping_Date_Scheduled,Scheduled date for shipping,date
+sales_orders,Shipping_Date_Actual,Actual date when order was shipped,date
+sales_orders,Delivery_Status,Whether delivery was on time or late,string
+sales_orders,Late_Delivery_Risk_Flag,Flag indicating if delivery was late,integer
+sales_orders,VAT_Rate,Value-added tax rate applied,float
+sales_orders,COGS,Cost of goods sold for the order,float
+sales_orders,Unit_Price_Effective,Price per unit after discount,float
+sales_orders,Order_Total,"Total revenue after discount, excluding VAT",float
+sales_orders,VAT_Amount,VAT amount charged on the order,float
+sales_orders,Profit_Per_Order,Profit for the order after subtracting COGS,float
+procurement_orders,PO_ID,Unique procurement order identifier,string
+procurement_orders,Supplier_ID,Supplier fulfilling the procurement order,string
+procurement_orders,Raw_Material_ID,Identifier for raw material or product purchased,string
+procurement_orders,Order_Date,Date when procurement order was placed,date
+procurement_orders,Order_Quantity,Quantity of raw materials ordered,integer
+procurement_orders,Unit_Cost,Cost per unit of raw material,float
+procurement_orders,Delivery_Date_Planned,Planned delivery date,date
+procurement_orders,Delivery_Date_Actual,Actual delivery date,date
+procurement_orders,Total_Cost,Total cost of procurement order,float

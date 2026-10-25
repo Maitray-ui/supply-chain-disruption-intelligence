@@ -1,0 +1,26 @@
+# Environment variables / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Tableau temporary/lock files
+*.twb~
+
+# Local database / temporary files
+*.db
+*.sqlite
+*.sqlite3

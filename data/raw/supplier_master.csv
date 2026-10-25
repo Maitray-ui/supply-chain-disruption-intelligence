@@ -1,0 +1,101 @@
+Supplier_ID,Supplier_Name,Country,Region,On_Time_Delivery_Rate,Certification_Level,Preferred_Supplier_Flag
+SUP00001,Beta Gamma Corp,USA,West,0.75,None,0
+SUP00002,Eco Gamma GmbH,China,South,0.8,ISO 9001,0
+SUP00003,Ultra Ultra GmbH,India,Central,0.62,ISO 14001,1
+SUP00004,Gamma Nova LLC,USA,North,0.66,ISO 9001,0
+SUP00005,Ultra Gamma LLC,Canada,North,0.89,ISO 9001,1
+SUP00006,Apex Fusion Ltd,USA,East,0.63,ISO 14001,1
+SUP00007,Fusion Gamma LLC,China,East,0.84,ISO 9001,1
+SUP00008,Omega Gamma Ltd,USA,Central,0.7,None,0
+SUP00009,Nano Vertex LLC,China,North,0.75,ISO 9001,1
+SUP00010,Nova Alpha Corp,Denmark,Central,0.71,None,0
+SUP00011,Alpha Prime Ltd,UK,East,0.74,None,1
+SUP00012,Delta Vertex LLC,China,East,0.88,None,0
+SUP00013,Fusion Fusion LLC,China,North,0.72,ISO 45001,1
+SUP00014,Ultra Apex LLC,Germany,West,0.82,ISO 9001,0
+SUP00015,Ultra Eco LLC,China,South,0.79,ISO 14001,1
+SUP00016,Prime Gamma Inc,China,East,0.86,ISO 14001,0
+SUP00017,Nova Alpha Ltd,India,East,0.97,ISO 9001,0
+SUP00018,Omega Alpha Corp,UK,West,0.89,ISO 45001,0
+SUP00019,Delta Fusion Corp,Denmark,West,0.68,ISO 45001,0
+SUP00020,Gamma Quantum LLC,Canada,Central,0.61,None,1
+SUP00021,Nova Eco LLC,Germany,Central,0.7,ISO 9001,1
+SUP00022,Fusion Fusion Inc,India,South,0.83,ISO 9001,0
+SUP00023,Nova Beta Corp,Brazil,South,0.62,ISO 14001,1
+SUP00024,Quantum Fusion Corp,UK,North,0.79,ISO 9001,0
+SUP00025,Fusion Vertex Inc,Denmark,Central,0.83,ISO 45001,0
+SUP00026,Quantum Eco LLC,Denmark,East,0.73,ISO 9001,1
+SUP00027,Fusion Delta LLC,Brazil,Central,0.9,ISO 14001,0
+SUP00028,Beta Eco Ltd,Canada,East,0.64,None,0
+SUP00029,Omega Vertex Inc,China,West,0.63,ISO 14001,1
+SUP00030,Prime Omega Corp,India,Central,0.88,ISO 14001,0
+SUP00031,Vertex Vertex Inc,USA,West,0.79,None,0
+SUP00032,Prime Vertex Inc,Germany,South,0.87,ISO 14001,0
+SUP00033,Quantum Quantum Ltd,USA,South,0.77,ISO 14001,0
+SUP00034,Delta Quantum GmbH,Brazil,North,0.7,ISO 9001,1
+SUP00035,Eco Nano GmbH,Denmark,Central,0.92,ISO 9001,1
+SUP00036,Apex Ultra Ltd,Canada,West,0.91,None,1
+SUP00037,Nova Gamma Ltd,Denmark,East,0.87,ISO 9001,0
+SUP00038,Vertex Delta Inc,Germany,South,0.71,ISO 9001,0
+SUP00039,Nova Nano GmbH,Denmark,South,0.83,ISO 14001,1
+SUP00040,Omega Nova GmbH,Denmark,East,0.74,ISO 45001,0
+SUP00041,Gamma Nano Corp,Germany,West,0.64,ISO 9001,0
+SUP00042,Omega Nova Corp,India,West,0.96,ISO 45001,0
+SUP00043,Vertex Fusion Inc,India,Central,0.65,ISO 9001,0
+SUP00044,Gamma Quantum LLC,Germany,Central,0.97,ISO 9001,1
+SUP00045,Pioneer Alpha Corp,Canada,North,0.77,None,1
+SUP00046,Vertex Apex Ltd,Brazil,South,0.67,None,1
+SUP00047,Eco Vertex Ltd,UK,Central,0.81,None,0
+SUP00048,Delta Gamma Corp,Denmark,West,0.94,ISO 45001,1
+SUP00049,Vertex Delta LLC,Canada,East,0.89,ISO 14001,1
+SUP00050,Prime Gamma GmbH,Denmark,West,0.91,ISO 9001,0
+SUP00051,Apex Omega LLC,UK,South,0.86,ISO 9001,0
+SUP00052,Ultra Prime Inc,Brazil,West,0.87,ISO 9001,1
+SUP00053,Apex Quantum Inc,India,North,0.93,ISO 45001,1
+SUP00054,Ultra Fusion Corp,Canada,South,0.7,None,1
+SUP00055,Eco Pioneer Corp,China,East,0.79,ISO 14001,1
+SUP00056,Prime Prime Corp,China,North,0.69,ISO 45001,0
+SUP00057,Nova Alpha Inc,UK,South,0.99,None,1
+SUP00058,Eco Prime Corp,China,East,0.97,ISO 45001,1
+SUP00059,Vertex Beta GmbH,India,North,0.62,ISO 14001,0
+SUP00060,Ultra Delta LLC,UK,North,0.88,None,1
+SUP00061,Vertex Delta LLC,India,South,0.96,ISO 45001,0
+SUP00062,Omega Nano Corp,Brazil,Central,0.67,ISO 14001,0
+SUP00063,Nano Fusion GmbH,Denmark,North,0.82,ISO 9001,0
+SUP00064,Gamma Nova LLC,Brazil,North,0.96,ISO 14001,1
+SUP00065,Quantum Nano Inc,Brazil,East,0.61,ISO 9001,1
+SUP00066,Alpha Beta LLC,India,West,0.87,ISO 45001,0
+SUP00067,Alpha Beta Ltd,UK,South,0.72,None,1
+SUP00068,Prime Prime Inc,UK,South,0.96,None,1
+SUP00069,Ultra Delta Ltd,China,Central,0.98,ISO 45001,0
+SUP00070,Pioneer Apex Corp,USA,Central,0.97,None,0
+SUP00071,Gamma Vertex Corp,Denmark,South,0.78,None,1
+SUP00072,Beta Apex Corp,India,Central,0.94,ISO 9001,0
+SUP00073,Omega Beta Corp,China,East,0.93,ISO 45001,1
+SUP00074,Apex Pioneer Ltd,Canada,South,0.72,ISO 14001,1
+SUP00075,Alpha Ultra Corp,USA,Central,0.92,ISO 9001,1
+SUP00076,Eco Eco Ltd,USA,South,0.61,ISO 45001,1
+SUP00077,Ultra Apex Inc,India,West,0.83,ISO 9001,0
+SUP00078,Eco Beta Inc,Germany,North,0.69,ISO 14001,0
+SUP00079,Delta Prime Inc,Denmark,South,0.65,ISO 14001,0
+SUP00080,Gamma Nova Ltd,USA,North,0.63,ISO 45001,0
+SUP00081,Fusion Apex LLC,India,Central,0.87,ISO 14001,1
+SUP00082,Alpha Alpha Corp,India,North,0.73,ISO 9001,1
+SUP00083,Vertex Beta LLC,China,South,0.88,ISO 14001,0
+SUP00084,Eco Gamma LLC,Canada,West,0.63,ISO 9001,1
+SUP00085,Beta Delta LLC,Germany,Central,0.72,ISO 9001,1
+SUP00086,Beta Eco Inc,Denmark,South,0.81,ISO 14001,1
+SUP00087,Beta Nano Corp,UK,Central,0.91,ISO 45001,0
+SUP00088,Pioneer Omega Ltd,Brazil,East,0.72,None,0
+SUP00089,Ultra Quantum Ltd,Canada,North,0.84,ISO 14001,0
+SUP00090,Apex Apex Ltd,Canada,East,0.95,ISO 9001,1
+SUP00091,Beta Fusion GmbH,China,South,0.84,ISO 9001,0
+SUP00092,Alpha Nova Ltd,UK,West,0.69,ISO 14001,0
+SUP00093,Prime Nano Ltd,USA,Central,0.61,ISO 45001,0
+SUP00094,Apex Eco Ltd,USA,North,0.94,ISO 45001,0
+SUP00095,Pioneer Ultra GmbH,China,Central,0.61,ISO 9001,0
+SUP00096,Apex Prime Ltd,India,South,0.94,ISO 9001,0
+SUP00097,Beta Pioneer Inc,USA,Central,0.81,ISO 45001,1
+SUP00098,Gamma Quantum Inc,Germany,North,0.97,None,1
+SUP00099,Nova Eco LLC,Denmark,South,0.91,ISO 14001,0
+SUP00100,Nano Ultra Corp,Canada,Central,0.99,ISO 9001,0
